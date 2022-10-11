@@ -29,3 +29,8 @@ button{
     margin-top: 10px;
     width: 130px;
 }
+@media(max-width: 625px){
+    body{
+        width: 40vh;
+    }
+}
