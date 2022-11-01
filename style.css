@@ -33,4 +33,7 @@ button{
     body{
         width: 40vh;
     }
+    .container h1{
+        text-align: center;
+    }
 }
